@@ -157,7 +157,7 @@ http://localhost:8000/api-docs
 ## 🚀 Installation
 ```bash
 Clone Repository
-git clone https://github.com/KarthickRamAlagar/StudentManger.git
+git clone [https://github.com/KarthickRamAlagar/StudentManger.git](https://github.com/KarthickRamAlagar/StudentManager-FE)
 Install Dependencies
 npm install
 ```
